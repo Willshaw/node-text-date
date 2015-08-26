@@ -1,4 +1,4 @@
-var textdate = require('./date.js');
+var textdate = require('textdate');
 
 console.log('Text Date');
 
